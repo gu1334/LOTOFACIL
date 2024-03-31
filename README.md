@@ -9,6 +9,13 @@ Este é um programa Java que simula um sistema de loteria simples, permitindo ao
 - **Apostar de A à Z:** Permite ao usuário apostar em uma letra do alfabeto entre A e Z.
 - **Apostar em par ou ímpar:** Permite ao usuário apostar se um número é par ou ímpar.
 
+## Vídeo Demonstrativo
+
+Confira este vídeo demonstrativo do projeto:
+
+[Veja o vídeo aqui](https://www.youtube.com/watch?v=seu_codigo)
+
+
 ## Como usar
 1. Certifique-se de ter o JDK instalado em sua máquina.
 2. Clone o repositório para sua máquina local: `git clone https://github.com/https://github.com/gu1334/LOTOFACIL.git`
