@@ -13,7 +13,7 @@ Este é um programa Java que simula um sistema de loteria simples, permitindo ao
 
 Confira este vídeo demonstrativo do projeto:
 
-[Veja o vídeo aqui](https://www.youtube.com/watch?v=seu_codigo)
+[Veja o vídeo aqui](https://youtu.be/KF6ofcIUqUw)
 
 
 ## Como usar
