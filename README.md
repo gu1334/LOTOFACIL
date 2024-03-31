@@ -64,7 +64,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Autor
 
-[Gustavo Freire](github.com/gu1334)
+[Gustavo Freire](https://github.com/gu1334)
 
 ## Licença
 
