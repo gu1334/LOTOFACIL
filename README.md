@@ -10,16 +10,27 @@ Este é um programa Java que simula um sistema de loteria simples, permitindo ao
 - **Apostar em par ou ímpar:** Permite ao usuário apostar se um número é par ou ímpar.
 
 ## Como usar
-
-1. Clone o repositório para sua máquina local.
-2. Compile o código Java usando o comando `javac Loteria.java`.
-3. Execute o programa com o comando `java Loteria`.
-4. Siga as instruções exibidas no menu para fazer suas apostas.
+1. Certifique-se de ter o JDK instalado em sua máquina.
+2. Clone o repositório para sua máquina local: `git clone https://github.com/https://github.com/gu1334/LOTOFACIL.git`
+3. Navegue até o diretório do projeto: `cd LOTOFACIL`
+4. Compile o código Java: `javac Loteria.java`
+5. Execute o programa: `java Loteria`
+6. Siga as instruções exibidas no menu para fazer suas apostas.
 
 ## Tecnologias Utilizadas
 
 - Java
 - IDE: Este projeto pode ser desenvolvido em qualquer IDE Java, como Eclipse ou IntelliJ IDEA.
+  
+  ## Requisitos
+
+- JDK 8 ou superior
+- IDE Java
+
+  ## Bibliotecas Utilizadas
+- import java.io.IOException;
+- import java.util.Random;
+- import java.util.Scanner;
 
 ## Contribuições
 
