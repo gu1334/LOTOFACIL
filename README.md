@@ -17,6 +17,22 @@ Este é um programa Java que simula um sistema de loteria simples, permitindo ao
 5. Execute o programa: `java Loteria`
 6. Siga as instruções exibidas no menu para fazer suas apostas.
 
+## Utilizando a Interface Gráfica
+
+Para usar a interface gráfica do projeto, siga estas etapas:
+
+1. Clone ou faça o download do repositório para o seu computador.
+
+2. Abra o projeto em sua IDE preferida.
+
+3. Compile e execute o código.
+
+4. Você verá a janela da interface gráfica com opções para escolher.
+
+5. Clique nos botões ou preencha os campos conforme necessário.
+
+6. Observe os resultados na interface gráfica.
+
 ## Tecnologias Utilizadas
 
 - Java
@@ -34,22 +50,6 @@ Este é um programa Java que simula um sistema de loteria simples, permitindo ao
 - import javax.swing.*;
 - import java.awt.event.ActionEvent;
 - import java.awt.event.ActionListener;
-
-## Utilizando a Interface Gráfica
-
-Para usar a interface gráfica do projeto, siga estas etapas:
-
-1. Clone ou faça o download do repositório para o seu computador.
-
-2. Abra o projeto em sua IDE preferida.
-
-3. Compile e execute o código.
-
-4. Você verá a janela da interface gráfica com opções para escolher.
-
-5. Clique nos botões ou preencha os campos conforme necessário.
-
-6. Observe os resultados na interface gráfica.
 
 ## Contribuições
 
