@@ -12,6 +12,7 @@ public class LoteriaGUI extends JFrame {
         super("Menu LOTOFÁCIL");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(300, 200);
+        setLocationRelativeTo(null);
 
         JPanel painel = new JPanel();
         botaoOpcao1 = new JButton("Apostar de 0 a 100");
